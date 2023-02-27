@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me **khansohail015@gmail.com**
 
 
-- My portfolio  (https://suhail3535.github.io/)
+- My portfolio  https://suhail3535.github.io/
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suhail-khan-6339a6127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhail-khan-6339a6127" height="30" width="40" /></a>
