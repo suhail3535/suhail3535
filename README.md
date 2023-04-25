@@ -65,9 +65,12 @@
   <img align="center" alt="suhailkhan's streak" src="https://streak-stats.demolab.com/?user=suhail3535&theme=monokai-metallian&hide_border=true"/>
   </a>
   <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=suhail3535&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&count_private=true" alt="github-readme-streak-stats" alt="suhailkhan" />
-
-  </div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=suhail3535&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&count_private=true" alt="github-readme-streak-stats" alt="suhail3535" />
+  </a>
+<!--   <a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sutharshantanu&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="sutharshantanu" />
+  </a> -->
+</div>
 
   
 
