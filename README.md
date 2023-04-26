@@ -26,7 +26,6 @@
 
 <p align="left">
  <a href="https://codepen.io/suhail3535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/suhail3535" height="30" width="40" /></a>
-
 <a href="https://www.linkedin.com/in/suhail-khan-645998127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suhail-khan-645998127/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100006231751554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100006231751554" height="30" width="40" /></a>
 <a href="https://www.instagram.com/suhail5727/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/suhail5727/" height="30" width="40" /></a>
@@ -94,8 +93,8 @@
 <a href="https://github.com/suhail3535/thinkable-slope-4107">
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=suhail3535&repo=thinkable-slope-4107&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
 </a>
-<a href="https://github.com/uzairansari11/native-order-609">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=uzairansari11&repo=native-order-609&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+<a href="https://github.com/suhail3535/alive-run-138">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SUHAIL3535&repo=alive-run-138&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
 </a>
 <a href="https://github.com/SutharShantanu/-available-blood-5696">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=-available-blood-5696&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
