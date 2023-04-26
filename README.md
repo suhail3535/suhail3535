@@ -25,7 +25,7 @@
 ## Connect with me:
 
 <p align="left">
- <a href="https://codepen.io/suhail3535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/suhail3535" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/suhail-khan-645998127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suhail-khan-645998127/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100006231751554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100006231751554" height="30" width="40" /></a>
 <a href="https://www.instagram.com/suhail5727/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/suhail5727/" height="30" width="40" /></a>
