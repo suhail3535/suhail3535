@@ -92,7 +92,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=suhail3535&repo=thinkable-slope-4107&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
 </a>
 <a href="https://github.com/suhail3535/alive-run-138">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SUHAIL3535&repo=alive-run-138&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=suhail3535&repo=alive-run-138&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
 </a>
 <a href="https://github.com/suhail3535/agreeable-transport-9100">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=suhail3535&repo=agreeable-transport-9100&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
