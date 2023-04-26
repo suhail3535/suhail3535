@@ -1,9 +1,13 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Suhail khan
+<!-- # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Suhail khan -->
 
 <div align="left">
 
-## Aspiring MERN Developer
+<!-- ## Aspiring MERN Developer -->
 
+  ![MasterHead](https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Software_Developer_LandingPage.jpg/482fcd02-18cd-7adc-69ec-2810709139af?t=1618902865233)
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Suhail khan</h1>
+<h3 align="center">Aspiring MERN Developer</h3>
+  
 <!--<p><img src="Images/Anime Sunset.jpeg" ></p>-->
 
 <p align="left">
