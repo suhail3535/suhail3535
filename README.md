@@ -34,8 +34,9 @@
 
 ## 🏆 Trophies :
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suhail3535" alt="suhail3535" /></a> </p>
-
+![](https://github-profile-trophy.vercel.app/?username=suhail3535&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
+<!-- <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=suhail3535&theme=monokai&no-frame=true&no-bg=false&margin-w=4"><img src="https://github-profile-trophy.vercel.app/?username=suhail3535" alt="suhail3535" /></a> </p> 
+ -->
 ## 🔣 Languages and Tools:
 
 <p align="left">
@@ -86,25 +87,30 @@
 
 </p>
 
+ ## 📂 Projects :
 <p>
-
 <a href="https://github.com/suhail3535/thinkable-slope-4107">
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=suhail3535&repo=thinkable-slope-4107&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
 </a>
+  
 <a href="https://github.com/suhail3535/alive-run-138">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=suhail3535&repo=alive-run-138&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
 </a>
+  
 <a href="https://github.com/suhail3535/agreeable-transport-9100">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=suhail3535&repo=agreeable-transport-9100&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
 </a>
+  
 <a href="https://github.com/suhail3535/glad-airplane-61">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=suhail3535&repo=glad-airplane-61&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
 </a>
+  
 </p>
 
 
 <p align="center">
 <a href="https://github.com/suhail3535"><span>
+
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suhail3535&theme=dracula" />
 </span></a>
   
