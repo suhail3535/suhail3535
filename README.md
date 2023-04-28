@@ -4,10 +4,21 @@
 
 <!-- ## Aspiring MERN Developer -->
 
-  ![MasterHead](https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Software_Developer_LandingPage.jpg/482fcd02-18cd-7adc-69ec-2810709139af?t=1618902865233)
+<!--   ![MasterHead](https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Software_Developer_LandingPage.jpg/482fcd02-18cd-7adc-69ec-2810709139af?t=1618902865233) -->
+  
+  <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://s3.ap-south-1.amazonaws.com/stage.radixweb.com/banner_image_9bba12f2c6.jpg">  
+  
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Suhail khan</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
   
+  
+  <img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
+
+
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 320px></picture>
+
+<br>
 <!--<p><img src="Images/Anime Sunset.jpeg" ></p>-->
 
 <p align="left">
