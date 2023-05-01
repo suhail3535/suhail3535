@@ -88,7 +88,7 @@
   <img align="center" alt="suhailkhan's streak" src="https://streak-stats.demolab.com/?user=suhail3535&theme=monokai-metallian&hide_border=true"/>
   </a>
   <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=suhail3535&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&count_private=true" alt="github-readme-streak-stats" alt="suhail3535" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=suhail3535&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&count_private=true" alt="github-readme-streak-stats" alt="suhail3535" />
   </a>
 
 </div>
@@ -106,26 +106,26 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/suhail3535/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhail3535&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"/>
+<a href="https://github.com/suhail3535/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suhail3535&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"/>
 
 </p>
 
  ## 📂 Projects :
 <p>
 <a href="https://github.com/suhail3535/thinkable-slope-4107">
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=suhail3535&repo=thinkable-slope-4107&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=thinkable-slope-4107&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
 </a>
   
 <a href="https://github.com/suhail3535/alive-run-138">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=suhail3535&repo=alive-run-138&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=alive-run-138&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
 </a>
   
 <a href="https://github.com/suhail3535/agreeable-transport-9100">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=suhail3535&repo=agreeable-transport-9100&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=agreeable-transport-9100&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
 </a>
   
 <a href="https://github.com/suhail3535/glad-airplane-61">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=suhail3535&repo=glad-airplane-61&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=glad-airplane-61&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
 </a>
   
 </p>
