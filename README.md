@@ -147,7 +147,12 @@
 </span></a>
   
 </p>
+<h3 align="center"> 
+  Visitor count <br>
+  <br>
 
+  <img src="https://profile-counter.glitch.me/suhail3535/count.svg" />
+</h3>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" color="red">
   </p>
