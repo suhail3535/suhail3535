@@ -148,11 +148,12 @@
   
 </p>
 
-<!--   <div align="center">
- <img src="https://capsule-render.vercel.app/api?text=Thank%20you%20for%20Visiting!🕹️&animation=fadeIn&type=waving&color=gradient&section=footer&height=100"/>
+  <div align="center">
+ <img src="https://capsule-render.vercel.app/api?🕹&animation=fadeIn&type=waving&color=#37bcf7&section=footer&height=200"/>
   <img src='https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg'  /> 
- <h1><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/></h1>
-</div> -->
+<!--  <h1>
+   <img height="40" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/></h1> -->
+</div>
 
 
 <p align="center">
