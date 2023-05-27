@@ -15,7 +15,7 @@
   </p> -->
   
   <p align="center">
-  <img src="https://www.rwit.io/wp-content/uploads/2020/08/web-development-new@2x.png" alt="" width="70%">
+  <img src="https://www.rwit.io/wp-content/uploads/2020/08/web-development-new@2x.png" alt="" width="60%" height="20%">
 </p>
 
  
