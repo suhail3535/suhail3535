@@ -139,29 +139,41 @@
 </p>
 
  ## 📂 Projects :
-<p>
-<a href="https://github.com/suhail3535/Aerowear">
-<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=Aerowear&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
-</a>
-<a href="https://github.com/suhail3535/FaishonFrenzy">
-  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=FaishonFrenzy&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
-</a>
-<a href="https://github.com/suhail3535/TripHub">
-  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=TripHub&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
-</a>
-  
-<a href="https://github.com/suhail3535/loginmanagementsystem">
-  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=loginmanagementsystem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
-</a>
 
+<div>
+  <a href="https://github.com/suhail3535/Aerowear">
+    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=Aerowear&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+  </a>
+</div>
 
-<a href="https://github.com/suhail3535/Toptrip">
-  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=Toptrip&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
-</a>
+<div>
+  <a href="https://github.com/suhail3535/FaishonFrenzy">
+    <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=FaishonFrenzy&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+  </a>
+</div>
+
+<div>
+  <a href="https://github.com/suhail3535/TripHub">
+    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=TripHub&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+  </a>
+</div>
+<div>
   <a href="https://github.com/suhail3535/JavaScript_Todo-APP">
-  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=JavaScript_Todo-APP&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
-</a>
-</p>
+    <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=JavaScript_Todo-APP&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+  </a>
+</div>
+<div>
+  <a href="https://github.com/suhail3535/loginmanagementsystem">
+    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=loginmanagementsystem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+  </a>
+</div>
+<div>
+  <a href="https://github.com/suhail3535/Toptrip">
+    <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=Toptrip&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+  </a>
+</div>
+ 
+
 
 
 <p align="center">
