@@ -14,9 +14,11 @@
 <!--   <p style="text-align:center">  
     <img  margin="auto" src="https://www.rwit.io/wp-content/uploads/2020/08/web-development-new@2x.png" alt= “” width="50%">
   </p> -->
-  
+ 
+
   <p align="center">
-  <img src="https://www.rwit.io/wp-content/uploads/2020/08/web-development-new@2x.png" alt="" width="60%" height="20%">
+<!--   <img src="https://www.rwit.io/wp-content/uploads/2020/08/web-development-new@2x.png" alt="" width="60%" height="20%"> -->
+  <img src="https://elfinitytechnologies.com/wp-content/themes/skt-fse/assets/images/banner-img.png" alt="" width="60%" height="10%">
 </p>
 <!--   <p align="center">
   <img src="https://media.licdn.com/dms/image/D5616AQGk0kMEu5qy0g/profile-displaybackgroundimage-shrink_350_1400/0/1678702451849?e=1692230400&v=beta&t=h88mj3FB_N9gCaxFYLpFu2KzHzKlId3TAiLT2QsZxzo" alt="" width="100%" height="80%">
