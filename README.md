@@ -93,6 +93,7 @@
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge"></a>
 <a href="#"><img alt="Json Server" src="https://img.shields.io/badge/json%20server-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"></a>
 <a href="#"><img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white"></a>
+<a href="#"><img alt="chakra ui" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88.svg?style=for-the-badge&logo=redux&logoColor=white"></a>
 <a href="#"><img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></a>
