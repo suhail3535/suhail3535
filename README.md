@@ -8,21 +8,11 @@
 <!--   ![MasterHead](https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Software_Developer_LandingPage.jpg/482fcd02-18cd-7adc-69ec-2810709139af?t=1618902865233) -->
   <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Suhail khan </h1>
 <h3 align="center">A Passionate Fullstack Developer</h3>
-<!--   
-  <img align="center" alt="Coding" width="100%" style="text-align:center" src="[https://s3.ap-south-1.amazonaws.com/stage.radixweb.com/banner_image_9bba12f2c6.jpg](https://www.rwit.io/wp-content/uploads/2020/08/web-development-new@2x.png)">   -->
 
-<!--   <p style="text-align:center">  
-    <img  margin="auto" src="https://www.rwit.io/wp-content/uploads/2020/08/web-development-new@2x.png" alt= “” width="50%">
-  </p> -->
- 
-
-  <p align="center">
-<!--   <img src="https://www.rwit.io/wp-content/uploads/2020/08/web-development-new@2x.png" alt="" width="60%" height="20%"> -->
+<p align="center">
   <img src="https://elfinitytechnologies.com/wp-content/themes/skt-fse/assets/images/banner-img.png" alt="" width="60%" height="10%">
 </p>
-<!--   <p align="center">
-  <img src="https://media.licdn.com/dms/image/D5616AQGk0kMEu5qy0g/profile-displaybackgroundimage-shrink_350_1400/0/1678702451849?e=1692230400&v=beta&t=h88mj3FB_N9gCaxFYLpFu2KzHzKlId3TAiLT2QsZxzo" alt="" width="100%" height="80%">
-</p> -->
+
 
 
   
@@ -40,7 +30,7 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 320px></picture>
 
 <br>
-<!--<p><img src="Images/Anime Sunset.jpeg" ></p>-->
+
 
 <p align="left">
 
@@ -52,7 +42,8 @@
 </p>
 </div>
 
--   <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently learning 🧑‍💻 **Full Stack Web-Development**
+
+-   <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently Working as 🧑‍💻 **Full Stack Web-Developer(MERN)**
 -   <img width="15px" src="https://avatars.githubusercontent.com/u/61222534?s=200&v=4" alt="Masai Icon" /> I’m a Student at <a href="https://www.linkedin.com/school/masai-school/">**Masai**</a>
 -   <img width="15px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Linkedin Icon" /> Join Me On Linkedin <a href="https://www.linkedin.com/in/suhail-khan-645998127/">**suhail khan**</a>
 -   <img width="13px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Icon" /> How to reach me **khansohail015@gmail.com**
@@ -82,9 +73,6 @@
 </p>
  
  
-<!--    ![](https://github-profile-trophy.vercel.app/?username=suhail3535&theme=monokai&no-frame=true&no-bg=false&margin-w=4)</picture> -->
-<!-- <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=suhail3535&theme=monokai&no-frame=true&no-bg=false&margin-w=4"><img src="https://github-profile-trophy.vercel.app/?username=suhail3535" alt="suhail3535" /></a> </p> 
- -->
 ## 🔣 Languages and Tools:
 
 <p align="left">
@@ -104,10 +92,22 @@
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+<a href="#"> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 <a href="#"><img alt="Sql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="babel" src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white"a>
 <a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"></a>
 <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"></a>
+<a href="#">
+  <img alt="Thunder Client" src="https://img.shields.io/badge/Thunder%20Client-0080FF?style=for-the-badge&logo=thunder-client&logoColor=white">
+</a>
+<a href="#">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</a>
+<a href="#">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=transparent">
+</a>
+
+
 
 ## 🔥 Streak stats :
 
@@ -130,6 +130,9 @@
 <p>
 
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=for-the-badge"></a>
+<a href="#">
+  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white">
+</a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white&style=for-the-badge"></a>
 
