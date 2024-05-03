@@ -67,7 +67,7 @@
  <p align="center">
 <div align=center>
   <a href="https://github.com/suhail3535/JavaScriptCodingInterviewQuestions" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=suhail3535&theme=darkhub&column=4&margin-h=12&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=suhail3535&theme=darkhub&column=6&margin-h=12&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 </p>
