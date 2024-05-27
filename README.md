@@ -151,25 +151,19 @@
   </a>
 </div>
 
+
 <div>
-  <a href="https://github.com/suhail3535/TypeScriptCrudapp">
-    <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=TypeScriptCrudapp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+  <a href="https://github.com/suhail3535/FitnessWorldwebApp">
+    <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=FitnessWorldwebApp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
   </a>
 </div>
 
+
+
+
 <div>
-  <a href="https://github.com/suhail3535/zakat-foundation-frontend-freelance-project">
-    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=zakat-foundation-frontend-freelance-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
-  </a>
-</div>
-<!-- <div>
-  <a href="https://github.com/suhail3535/TripHub">
-    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=TripHub&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
-  </a>
-</div> -->
-<div>
-  <a href="https://github.com/suhail3535/JavaScript_Todo-APP">
-    <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=JavaScript_Todo-APP&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+  <a href="https://github.com/suhail3535/loginmanagementsystem">
+    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=loginmanagementsystem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
   </a>
 </div>
 <div>
@@ -178,10 +172,12 @@
   </a>
 </div>
 <div>
-  <a href="https://github.com/suhail3535/TypeScriptCrudapp">
-    <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=TypeScriptCrudapp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+  <a href="https://github.com/suhail3535/Dictionary_application">
+    <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=Dictionary_application&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
   </a>
 </div>
+
+
  
 
 
