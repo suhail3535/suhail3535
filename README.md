@@ -158,8 +158,8 @@
 </div>
 
 <div>
-  <a href="https://github.com/suhail3535/Rajpolice_vehicle_theft_portal_CCTNS_module-UI-Demo">
-    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=Rajpolice_vehicle_theft_portal_CCTNS_module-UI-Demo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+  <a href="https://github.com/suhail3535/zakat-foundation-frontend-freelance-project">
+    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=zakat-foundation-frontend-freelance-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
   </a>
 </div>
 <!-- <div>
