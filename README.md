@@ -167,8 +167,8 @@
   </a>
 </div>
 <div>
-  <a href="https://github.com/suhail3535/TypeScriptCrudapp">
-    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=TypeScriptCrudapp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+  <a href="https://github.com/suhail3535/loginmanagementsystem">
+    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suhail3535&repo=loginmanagementsystem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
   </a>
 </div>
 
