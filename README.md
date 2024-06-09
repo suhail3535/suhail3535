@@ -10,7 +10,7 @@
 <h3 align="center">A Passionate Fullstack Developer</h3>
 
 <p align="center">
-  <img src="https://elfinitytechnologies.com/wp-content/themes/skt-fse/assets/images/banner-img.png" alt="" width="60%" height="10%">
+  <img src="https://elfinitytechnologies.com/wp-content/themes/skt-fse/assets/images/banner-img.png" alt="heroimage" width="60%" height="10%">
 </p>
 
 
