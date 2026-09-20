@@ -80,23 +80,93 @@
 
 Shipped in a team at Quintype — production platforms, no public source.
 
-| Project | What I built | Stack |
-| :--- | :--- | :--- |
-| **[ListenFirst Media](https://listenfirstmedia.com)** | Enterprise media analytics platform. Data-heavy dashboards, API-driven visualizations and production reliability, in sync with a U.S.-based team. | React · Redux · D3.js · Ruby on Rails · PostgreSQL · TypeScript · AWS |
-| **[Gulf News](https://gulfnews.com)** | Custom front end for a high-traffic news portal — performance, accessibility and cross-platform responsiveness. | React · JavaScript · Node.js · Docker |
-| **[Fortune India](https://fortuneindia.com)** | Responsive front end for a leading business magazine, built alongside backend devs and UI/UX designers. | React · Node.js · JavaScript · Docker |
-| **[Khaleej Times](https://khaleejtimes.com)** | Backend automation: JSON-to-XML conversion, secure FTP transfer of daily print editions, CI/CD with CircleCI. | Node.js · Express · XML · CircleCI · Elasticsearch |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://listenfirstmedia.com"><img src="assets/listenfirst.jpg" width="100%" alt="ListenFirst Media screenshot"></a>
+<h3>ListenFirst Media</h3>
+<p>Enterprise media analytics platform. Data-heavy dashboards, API-driven visualizations and production reliability, in sync with a U.S.-based team.</p>
+<p><sub><b>React · Redux · D3.js · Ruby on Rails · PostgreSQL · TypeScript · AWS</b></sub></p>
+<p><a href="https://listenfirstmedia.com">🔗 Live site</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://gulfnews.com"><img src="assets/gulf-news.jpg" width="100%" alt="Gulf News screenshot"></a>
+<h3>Gulf News</h3>
+<p>Custom front end for a high-traffic news portal — performance, accessibility and cross-platform responsiveness.</p>
+<p><sub><b>React · JavaScript · Node.js · Docker</b></sub></p>
+<p><a href="https://gulfnews.com">🔗 Live site</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://fortuneindia.com"><img src="assets/fortune-india.jpg" width="100%" alt="Fortune India screenshot"></a>
+<h3>Fortune India</h3>
+<p>Responsive front end for a leading business magazine, built alongside backend devs and UI/UX designers.</p>
+<p><sub><b>React · Node.js · JavaScript · Docker</b></sub></p>
+<p><a href="https://fortuneindia.com">🔗 Live site</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://khaleejtimes.com"><img src="assets/khaleej-times.jpg" width="100%" alt="Khaleej Times screenshot"></a>
+<h3>Khaleej Times</h3>
+<p>Backend automation: JSON-to-XML conversion, secure FTP transfer of daily print editions, CI/CD with CircleCI.</p>
+<p><sub><b>Node.js · Express · XML · CircleCI · Elasticsearch</b></sub></p>
+<p><a href="https://khaleejtimes.com">🔗 Live site</a></p>
+</td>
+</tr>
+</table>
 
 ## 📂 Projects :
 
-| Project | What it is | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **Interview Prep** | MERN app for technical interview revision — a topic-wise question bank from beginner to advanced, with email and Google sign-in. | React · Node.js · Express · MongoDB · Google OAuth | [Live](https://mern-interview-preparation.vercel.app/login) |
-| **Zakat Foundation** | Responsive website UI built for a freelance client, focused on a clean and accessible experience. | React · Ant Design · Chakra UI | [Live](https://marvelous-churros-cf40d8.netlify.app/) · [Source](https://github.com/suhail3535/zakat-foundation-frontend-freelance-project) |
-| **Brainwave** | Modern UI/UX landing experience — sleek design, smooth scroll animations and parallax. | React · Tailwind CSS · JavaScript | [Live](https://brainwave-ai-phi.vercel.app/) · [Source](https://github.com/suhail3535/Brainwave_AI) |
-| **AeroWear** | Clothing store front end covering casual wear and accessories, with filtering, sorting and cart state in Redux. | React · Redux · JSON Server · Chakra UI | [Live](https://aerowear-suhail3535s-projects.vercel.app/) · [Source](https://github.com/suhail3535/Aerowear) |
-| **Fashion Frenzy** | Full-stack e-commerce store modelled on Anthropologie — product catalogue, cart and checkout flow. | React · Redux · Node.js · Express · MongoDB | [Live](https://faishonfrenzyecom.vercel.app/) |
-| **Fitness World** | Wellness app with tailored workout plans, nutrition tips and community features. | React · Material UI · Chakra UI · JavaScript | [Live](https://fitness-worldweb-app.vercel.app/) · [Source](https://github.com/suhail3535/FitnessWorldwebApp) |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://mern-interview-preparation.vercel.app/login"><img src="assets/interview-prep.jpg" width="100%" alt="Interview Prep screenshot"></a>
+<h3>Interview Prep</h3>
+<p>MERN app for technical interview revision — a topic-wise question bank from beginner to advanced, with email and Google sign-in.</p>
+<p><sub><b>React · Node.js · Express · MongoDB · Google OAuth</b></sub></p>
+<p><a href="https://mern-interview-preparation.vercel.app/login">🔗 Live demo</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://marvelous-churros-cf40d8.netlify.app/"><img src="assets/zakat-foundation.jpg" width="100%" alt="Zakat Foundation screenshot"></a>
+<h3>Zakat Foundation <sub><i>freelance</i></sub></h3>
+<p>Responsive website UI built for a freelance client, focused on a clean and accessible experience.</p>
+<p><sub><b>React · Ant Design · Chakra UI</b></sub></p>
+<p><a href="https://marvelous-churros-cf40d8.netlify.app/">🔗 Live demo</a> · <a href="https://github.com/suhail3535/zakat-foundation-frontend-freelance-project">💻 Source</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://brainwave-ai-phi.vercel.app/"><img src="assets/brainwave.jpg" width="100%" alt="Brainwave screenshot"></a>
+<h3>Brainwave</h3>
+<p>Modern UI/UX landing experience — sleek design, smooth scroll animations and parallax.</p>
+<p><sub><b>React · Tailwind CSS · JavaScript</b></sub></p>
+<p><a href="https://brainwave-ai-phi.vercel.app/">🔗 Live demo</a> · <a href="https://github.com/suhail3535/Brainwave_AI">💻 Source</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://aerowear-suhail3535s-projects.vercel.app/"><img src="assets/aerowear.jpg" width="100%" alt="AeroWear screenshot"></a>
+<h3>AeroWear</h3>
+<p>Clothing store front end covering casual wear and accessories, with filtering, sorting and cart state in Redux.</p>
+<p><sub><b>React · Redux · JSON Server · Chakra UI</b></sub></p>
+<p><a href="https://aerowear-suhail3535s-projects.vercel.app/">🔗 Live demo</a> · <a href="https://github.com/suhail3535/Aerowear">💻 Source</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://faishonfrenzyecom.vercel.app/"><img src="assets/fashion-frenzy.jpg" width="100%" alt="Fashion Frenzy screenshot"></a>
+<h3>Fashion Frenzy</h3>
+<p>Full-stack e-commerce store modelled on Anthropologie — product catalogue, cart and checkout flow.</p>
+<p><sub><b>React · Redux · Node.js · Express · MongoDB</b></sub></p>
+<p><a href="https://faishonfrenzyecom.vercel.app/">🔗 Live demo</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://fitness-worldweb-app.vercel.app/"><img src="assets/fitness-world.jpg" width="100%" alt="Fitness World screenshot"></a>
+<h3>Fitness World</h3>
+<p>Wellness app with tailored workout plans, nutrition tips and community features.</p>
+<p><sub><b>React · Material UI · Chakra UI · JavaScript</b></sub></p>
+<p><a href="https://fitness-worldweb-app.vercel.app/">🔗 Live demo</a> · <a href="https://github.com/suhail3535/FitnessWorldwebApp">💻 Source</a></p>
+</td>
+</tr>
+</table>
 
 More at **[suhailkhandev.site](https://www.suhailkhandev.site/)**.
 
